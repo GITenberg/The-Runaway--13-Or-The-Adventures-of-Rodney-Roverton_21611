@@ -1,0 +1,25 @@
+_repo: The-Runaway--13-Or-The-Adventures-of-Rodney-Roverton_21611
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2007-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Runaway children -- Juvenile fiction'
+title: "The Runaway\r\nOr, The Adventures of Rodney Roverton"
+url: http://www.gutenberg.org/ebooks/21611
